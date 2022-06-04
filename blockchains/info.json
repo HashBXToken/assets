@@ -1,0 +1,11 @@
+{
+  "name": "HashBX Token",
+  "website": "https://hashbx.io/",
+  "description": "HashBX is part of an ecosystem comprising MoveX and Cryptomap. MoveX represents products that can be brought with HBX and fiat. Cryptomap is a platform that provides information about places where users can spend their cryptocurrencies. Cryptomap also provides a venue for business owners to advertise their business.",
+  "explorer": "https://bscscan.com/token/0x7b674129D7cE4b17D7D69c4c68A00aa429230e88",
+  "type": "BEP20",
+  "symbol": "HBX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7b674129D7cE4b17D7D69c4c68A00aa429230e88"
+}
